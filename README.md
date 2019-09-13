@@ -7,24 +7,14 @@ This simple python project, based on python3 and uses pygame library
 
 Install pip
 First update your packege list
-'''
-sudo apt update
-'''
+`sudo apt update`
 
 Install pip for python2
-'''
-sude apt install python-pip
-'''
+`sude apt install python-pip`
 
 Install pip for python3
-'''
-sudo apt install python3-pip
-'''
+`sudo apt install python3-pip`
 
 Install pygame
-'''
-sudo pip3 install pygame
-'''
-'''
-sudo pip install pygame
-'''
+`sudo pip3 install pygame`
+`sudo pip install pygame`
