@@ -18,3 +18,8 @@ Install pip for python3
 Install pygame
 -`sudo pip3 install pygame`
 -`sudo pip install pygame`
+
+# Contributors 
+## Utkarsh Agarwal
+## Neetha Reddy
+## Nipun Goel
