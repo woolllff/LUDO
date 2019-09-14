@@ -20,6 +20,6 @@ Install pygame
 -`sudo pip install pygame`
 
 # Contributors 
-## Utkarsh Agarwal
-## Neetha Reddy
-## Nipun Goel
+### Utkarsh Agarwal
+### Neetha Reddy
+### Nipun Goel
