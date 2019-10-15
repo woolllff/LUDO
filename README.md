@@ -1,7 +1,7 @@
 # LUDO
 
 This simple python project, based on python3 and uses pygame library
-
+Enjoy the game!
 
 # To get the code working 
 
