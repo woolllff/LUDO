@@ -1,9 +1,10 @@
 # LUDO
 
-This simple python project, based on python3 and uses pygame library
+This simple python project, based on python3 and uses pygame library.
+It's Easy to Play and Make it.
 
 
-# To get the code working 
+# To Get The Code Working 
 
 Install pip
 First update your packege list
